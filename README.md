@@ -12,7 +12,7 @@ NumPy
 Jupyter Notebook
 ydata-profiling
 
-Key Learning Outcomes
+Outcomes
 
 Generated sample datasets
 Performed data profiling
@@ -30,7 +30,7 @@ Python
 Pandas
 Jupyter Notebook
 
-Key Learning Outcomes
+Outcomes
 
 Classified sensitive data
 Applied data masking
@@ -49,7 +49,7 @@ Python
 Pandas
 Google Colab
 
-Key Learning Outcomes
+Outcomes
 
 Explored real-world datasets
 Detected missing values
@@ -67,7 +67,7 @@ Python
 Pandas
 Google Colab
 
-Key Learning Outcomes
+Outcomes
 
 Removed duplicate records
 Detected outliers
